@@ -6,7 +6,7 @@ namespace PruebaGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HOLA DESDE GIT!");
+            Console.WriteLine("HOLA GIT DE NUEVO!");
         }
     }
 }
